@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/subscription", {data:[{}],fetch:{},mutations:[]});
