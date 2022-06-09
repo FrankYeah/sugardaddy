@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search-info", {data:[{}],fetch:{},mutations:[]});
